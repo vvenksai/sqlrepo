@@ -125,7 +125,3 @@ PSL Canteen Food Qty Prediction - Monday
 | 23 |
 | 22.5 |
 
-## Approval & Sign-Off
-| Name | Designation | Signature | Date |
-| --- | --- | --- | --- |
-| | | | |
